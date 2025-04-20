@@ -1,5 +1,5 @@
 ```markdown:README.md
-# 小组作业管理系统
+# 小组作业ai模块
 
 一个基于 Spring Boot 和 WebSocket 的智能对话系统，使用 Ollama 作为 AI 模型后端。
 
